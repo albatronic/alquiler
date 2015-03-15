@@ -1,0 +1,138 @@
+<!--Estilos para visualizacion e impresion-->
+.vCabecera {
+	font-family: Verdana;
+	font-size: 8px;
+	text-transform: uppercase;
+	color: #000000;
+	vertical-align: top;
+}
+.vTitulo {
+	font-family: Arial;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+}
+.vSubtitulosLP {
+	font-family: Arial;
+	font-size: 8px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	color: #000000;
+}
+.vCuerpo {
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: lighter;
+	color: #000000;
+	vertical-align: top;
+}
+.vCuerpoG {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #000000;
+	vertical-align: top;
+}
+.vCuerpoGA {
+	font-family: Arial;
+	font-size: 10px;
+	font-weight: lighter;
+	color: #000000;
+	vertical-align: top;
+}
+.vTxtVar {
+	font-family:  Verdana;
+	font-size: 8.5px;
+	text-transform: capitalize;
+	color: #000000
+}
+.vInput {
+	FONT-SIZE: 9px;
+	TEXT-TRANSFORM: capitalize;
+	COLOR: #000000;
+	FONT-FAMILY: "Verdana";
+}
+.vCIF {
+	font-family: "Century Gothic";
+	font-size: 9px;
+	color: #000000;
+}
+.vCaja {
+	font-family: "Century Gothic";
+	font-size: 10px;
+	text-align: right;
+	color: #000000;
+	font_weight: bold;
+}
+.vBr2 {
+	font-size: 3px;
+}
+.pCabecera {
+	font-family: Arial;
+	font-size: 8.5px;
+	text-transform: uppercase;
+	color: #000000;
+	vertical-align: top;
+}
+.pTitulo {
+	font-family: Arial;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+}
+.pSubtitulosLP {
+	font-family: Arial;
+	font-size: 6px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	color: #000000;
+}
+.pCuerpo {
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: lighter;
+	color: #000000;
+	vertical-align: top;
+}
+.pCuerpoGA {
+	font-family: Arial;
+	font-size: 10px;
+	font-weight: lighter;
+	color: #000000;
+	vertical-align: top;
+}
+.pCuerpoG {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #000000;
+	vertical-align: top;
+}
+.pTxtVar {
+	font-family: "Verdana";
+	font-size: 8.5px;
+	text-transform: uppercase;
+	line-height: normal;
+}
+.pInput {
+	FONT-SIZE: 9px;
+	TEXT-TRANSFORM: capitalize;
+	COLOR: #000000;
+	FONT-FAMILY: "Verdana";
+}
+
+.pCIF {
+	font-family: "Century Gothic";
+	font-size: 8px;
+	color: #000000;
+}
+.pCaja {
+	font-family: "Century Gothic";
+	font-size: 10px;
+	color: #000000;
+}
+.pBr2 {
+	font-size: 3px;
+}
+P.breakhere {page-break-before:always}
+

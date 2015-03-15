@@ -1,0 +1,18 @@
+070125 13:10:43 [Note] H:\AppServ\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+070125 14:18:09 [Note] H:\AppServ\mysql\bin\mysqld-nt: Normal shutdown
+
+070125 14:18:09 [Note] H:\AppServ\mysql\bin\mysqld-nt: Shutdown complete
+
+070129 11:21:20 [Note] H:\AppServ\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+070129 13:09:35 [Note] H:\AppServ\mysql\bin\mysqld-nt: Normal shutdown
+
+070129 13:09:35 [Note] H:\AppServ\mysql\bin\mysqld-nt: Shutdown complete
+
+070129 13:23:42 [Note] H:\AppServ\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+070129 13:35:24 [Note] H:\AppServ\mysql\bin\mysqld-nt: Normal shutdown
+
+070129 13:35:24 [Note] H:\AppServ\mysql\bin\mysqld-nt: Shutdown complete
+

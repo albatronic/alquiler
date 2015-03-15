@@ -1,0 +1,37 @@
+
+
+
+
+
+                                                                                             #nombr_inqu#
+                                                                                             #domic_inqu#
+                                                                                             #munic_inqu#
+                                                                                             #cdpos_inqu#-#provi_piso#
+
+
+
+GRANADA, #FECHA_ACTUAL#
+
+
+Estimado D/Dª #nombr_inqu#:. 
+
+		Por la presente me dirijo a Usted/es, para comunicarle/s que el proximo dia #f_fin_cont#, tiene su vencimiento (segun se estipula en los contratos de arrendamiento acogidos al R.D.L. del 8 de Noviembre de 1.994) el contrato de arrendamiento de #domic_piso# de #munic_piso#, de fecha #f_contrato#, que tenemos concertado.
+                    
+		Por consiguiente, debera Usted/es. pasarse por nuestra oficina de #domic_empr#, de #provi_empr#, antes de que cumpla el vencimiento del mencionado contrato, para la realizacion de un nuevo contrato de arrendamiento, o bien para la entrega de llaves a su vencimiento, del #DOMIC_PISO#, de #PROVI_PISO#, objeto del contrato de arrendamiento.
+
+		Si llegado el vencimiento del mencionado contrato Usted/es, no han comparecido en esta oficina, para la realizacion de un nuevo contrato, esta parte entendera que no desean continuar con el arrendamiento del #DOMIC_PISO#, de #MUNIC_PISO#, provincia de #PROVI_PISO#, daremos por finalizado y resuelto el contrato de arrendamiento que nos une, quedando por tanto denunciada la tacita reconduccion.
+
+						
+					Muy atentamente le saluda,
+					#nombr_empr#.
+
+
+
+
+
+
+RECIBI EL ORIGINAL :
+
+NOMBRE :______________________________
+D.N.I. :__________________________
+PARENTESCO :__________________

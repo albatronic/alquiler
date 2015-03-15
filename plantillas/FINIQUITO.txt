@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+        He recibido de la empresa #NOMBR_EMPR# la cantidad de #FIANZANUMERO# Euros, en concepto de devolución de la fianza entregada el día #F_CONTRATO#, para el arrendamiento de #DOMIC_PISO# de la ciudad de #MUNIC_PISO#, provincia de #PROVI_PISO#.
+
+
+
+        Con la devolución de esta cantidad queda rescindido el contrato de arrendamiento antes mencionado, de fecha #F_CONTRATO#, sin que ninguna de las partes tenga nada que reclamar al respecto.
+
+
+
+
+
+
+                        #PROVI_PISO#, a #FECHA_LIQUIDACION#
+
+
+
+
+
+			
+                        RECIBI:
+
+
+
+
+
+
+
+
+
+                         Fdo: #NOMBR_INQU#
+                              #NIF_INQU#

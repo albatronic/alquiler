@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:iso:std:iso:20022:tech:xsd:pain.008.001.02">
+  <CstmrDrctDbtInitn>
+    <GrpHdr>
+      <MsgId>E182941812014-05-02T093006</MsgId>
+      <CreDtTm>2014-05-02T09:30:06</CreDtTm>
+      <NbOfTxs>10</NbOfTxs>
+      <CtrlSum>3424.63</CtrlSum>
+      <InitgPty>
+        <Nm>ANTONIO GARCIA Y OTROS C.B.</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>ES47001E18294181</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>E182941812014-05-02T093006</PmtInfId>
+      <PmtMtd>DD</PmtMtd>
+      <NbOfTxs>10</NbOfTxs>
+      <CtrlSum>3424.63</CtrlSum>
+      <PmtTpInf><SvcLvl><Cd>SEPA</Cd></SvcLvl><LclInstrm><Cd>CORE</Cd></LclInstrm><SeqTp>RCUR</SeqTp></PmtTpInf>
+      <ReqdColltnDt>2014-05-01</ReqdColltnDt>
+      <Cdtr>
+        <Nm>ANTONIO GARCIA Y OTROS C.B.</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>C/DOCTOR ADELARDO MORA N. 4</AdrLine>
+          <AdrLine>18012 GRANADA</AdrLine>
+        </PstlAdr>
+      </Cdtr>
+      <CdtrAcct>
+        <Id><IBAN>ES1304873373242000000392</IBAN></Id>
+        <Ccy>EUR</Ccy>
+      </CdtrAcct>
+      <CdtrAgt>
+        <FinInstnId><BIC>GBMNESMMXXX</BIC></FinInstnId>
+      </CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId>
+        <Id>
+          <PrvtId>
+            <Othr>
+              <Id>ES47001E18294181</Id>
+              <SchmeNm>
+                <Prtry>SEPA</Prtry>
+              </SchmeNm>
+            </Othr>
+          </PrvtId>
+        </Id>
+      </CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02826</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">400.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I00257</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>UCJAES2MXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>UNION SINDICAL OBRERA (USO)</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 1. A, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES5921030926340030000605</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02826 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02828</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">350.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01397</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>RODRIGO MOSQUERA TIGSE</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 1. C, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES9504873271159000054465</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02828 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02830</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">300.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I00811</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>BBVAESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>ANTONIO BRAVO SEGOVIA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 2. B, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES4601823393450203673582</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02830 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02834</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">314.63</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I00054</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>MARIA DEL CARMEN PEREZ NOVO</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 3. C, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES8704873189119000003615</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02834 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02836</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">340.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01264</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>MARIA ANA MENDEZ NEGRETE</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 4. B, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES8204873189129000005693</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02836 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02837</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">360.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01410</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>CAIXESBBXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>MARIA EUGENIA MORENO MARTINEZ</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 4. C, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES6621001987050100624303</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02837 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02840</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">400.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I00666</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>MANUELA CASTILLA GARCIA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 5. C, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES3404873159809000003949</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02840 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02841</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">300.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01374</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>FRANCISCO MALDONADO PUGA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 6. B, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES2604873003089000441057</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02841 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02842</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">360.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01422</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>BBBBESPP</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>DIA BERRADA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 6. C, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES2104873147119000036100</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02842 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>H02843</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">300.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01332</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>GBMNESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>CARMEN CRUZ CUADRA ROMERO</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 7. A, AVD.DILAR N. 12</AdrLine>
+          <AdrLine>GRANADA 18007 GRANADA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES2704873295229000001572</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo H02843 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+  </CstmrDrctDbtInitn>
+</Document>

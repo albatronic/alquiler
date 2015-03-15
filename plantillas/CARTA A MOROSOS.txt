@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+                                     
+                                                                           #nombr_inqu#
+                                                                           #domic_inqu#
+                                                                           #munic_inqu#  (#provi_inqu#)
+
+
+
+
+
+
+
+	   Estimado/a D/Dª #nombr_inqu#:
+
+                       Por medio de la presente, me dirijo a Usted, para recordarle que tiene pendientes de pago los recibos correspondientes al contrato de arrendamiento de #domic_piso#, de #munic_piso# (#provi_piso#), que tenemos concertado, estos recibos pendientes de pago, ascienden a la cantidad de #saldo_pdte# EUROS, y corresponden a los meses de #G55_MESES#.
+
+					   Por consiguiente, le ruego que en el improrrogable plazo de 10 días, se pase Usted por nuestra oficina de calle #domic_empr#, de #munic_empr# (#provi_empr#), para hacer efectiva dicha cantidad, ya que de lo contrario nos veremos obligados a proceder al mencionado cobro por vía judicial.
+
+					   Espero no eche en olvido la presente, para así evitar gastos y molestias innecesarias.
+
+
+									  Muy atentamente le saluda.
+									  #nombr_empr#.
+
+

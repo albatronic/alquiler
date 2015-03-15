@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:iso:std:iso:20022:tech:xsd:pain.008.001.02">
+  <CstmrDrctDbtInitn>
+    <GrpHdr>
+      <MsgId>E189242662014-04-30T205032</MsgId>
+      <CreDtTm>2014-04-30T20:50:32</CreDtTm>
+      <NbOfTxs>7</NbOfTxs>
+      <CtrlSum>3190</CtrlSum>
+      <InitgPty>
+        <Nm>GARCIA RIVAS C.B.</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>ES97001E18924266</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>E189242662014-04-30T205032</PmtInfId>
+      <PmtMtd>DD</PmtMtd>
+      <NbOfTxs>7</NbOfTxs>
+      <CtrlSum>3190</CtrlSum>
+      <PmtTpInf><SvcLvl><Cd>SEPA</Cd></SvcLvl><LclInstrm><Cd>CORE</Cd></LclInstrm><SeqTp>RCUR</SeqTp></PmtTpInf>
+      <ReqdColltnDt>2014-05-01</ReqdColltnDt>
+      <Cdtr>
+        <Nm>GARCIA RIVAS C.B.</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>C/DOCTOR ADELARDO N. 9</AdrLine>
+          <AdrLine>18012 GRANADA</AdrLine>
+        </PstlAdr>
+      </Cdtr>
+      <CdtrAcct>
+        <Id><IBAN>ES0204873373219000007483</IBAN></Id>
+        <Ccy>EUR</Ccy>
+      </CdtrAcct>
+      <CdtrAgt>
+        <FinInstnId><BIC>GBMNESMMXXX</BIC></FinInstnId>
+      </CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId>
+        <Id>
+          <PrvtId>
+            <Othr>
+              <Id>ES97001E18924266</Id>
+              <SchmeNm>
+                <Prtry>SEPA</Prtry>
+              </SchmeNm>
+            </Othr>
+          </PrvtId>
+        </Id>
+      </CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01276</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">490.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01252</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGDESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>MARIA INMACULADA AMAYA ZURERA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 1. B IZQUIERDA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES5114650100971707273023</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01276 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01277</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01131</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>UCJAES2MXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>ROSA GONZALEZ MUNIOZ</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 2. B IZQUIERDA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES6121030271140010005836</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01277 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01278</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01405</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGDESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>ROCIO ALBA GONZALEZ</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 3. B IZQUIERDA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES7914650270381712310522</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01278 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01279</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I00911</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>BBVAESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>JOSE RAMON JIMENEZ AGUILAR</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 4. B IZQUIERDA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES2601820484150201580938</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01279 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01280</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01408</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>UCJAES2MXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>FRANCISCO MANUEL CASTILLO GIL</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 1. B DERECHA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES2921030283870010017561</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01280 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01281</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01391</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>CAHMESMMXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>INMACULADA DE LAS FLORES MARTINEZ MERIDA</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 2. B DERECHA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES0620389826413000364696</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01281 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>A01282</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">450.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>I01401</MndtId>
+            <DtOfSgntr>2009-10-31</DtOfSgntr>
+            <AmdmntInd>false</AmdmntInd>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>CCRIES2AXXX</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+        <Nm>ROBERTO FERRARI NIETO</Nm>
+        <PstlAdr>
+          <Ctry>ES</Ctry>
+          <AdrLine>PISO 3. B DERECHA, AVD.CARLOS HAYA N. 44</AdrLine>
+          <AdrLine>MALAGA 29010 MALAGA</AdrLine>
+        </PstlAdr>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>ES9030580851472720012358</IBAN>
+          </Id>
+        </DbtrAcct>
+        <Purp>
+          <Cd>TRAD</Cd>
+        </Purp>
+        <RmtInf>
+        <Ustrd>Recibo A01282 de fecha 01/05/2014</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+  </CstmrDrctDbtInitn>
+</Document>
